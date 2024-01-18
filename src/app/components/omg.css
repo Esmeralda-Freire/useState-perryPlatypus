@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: blue;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 20px;
+}
+
+.btn-box {
+    align-items: center;
+    padding: 30px;
+}
+
+.perry-img {
+    width: 200px;
+}
